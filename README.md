@@ -114,12 +114,16 @@ During the development of this assignment, AI tools such as ChatGPT were used fo
 * Designed each branch to end with actionable insights
 
 
-
 ## Future Improvements
 
 * Convert decision tree into an interactive web app
 * Add user input tracking
 * Integrate AI for dynamic responses
+
+## AI Agent 
+
+A simple AI-based reflection agent is added in the repository.
+It takes user input and provides basic reflective suggestions based on predefined logic.
 
 
 ## Submission Details
