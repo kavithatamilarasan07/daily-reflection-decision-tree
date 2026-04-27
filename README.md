@@ -91,14 +91,6 @@ Start
 
 ## Use of AI & Guardrails
 
-During the development of this assignment, AI tools such as ChatGPT were used for:
-
-* Idea generation
-* Structuring the decision tree
-* Understanding the basic concepts of Desicion Tree structure
-
-## Guardrails Applied
-
 - Verified AI-generated outputs   
 - Modified responses to ensure logical consistency  
 - Avoided generic or unrealistic suggestions  
