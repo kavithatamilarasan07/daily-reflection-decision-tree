@@ -125,7 +125,7 @@ During the development of this assignment, AI tools such as ChatGPT were used fo
 ## Submission Details
 
 * Decision Tree: Included above
-* Voice Explanation: (Attach Google Drive link here)
+* Voice Explanation: https://drive.google.com/file/d/1h8OFaNWVoD859YO1ydk0mdQLoR609v2P/view?usp=sharing
 
 
 ## Conclusion
